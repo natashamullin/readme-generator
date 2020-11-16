@@ -28,6 +28,7 @@
 
  ## Colaborators:
  Natasha mullin;[link](https://github.com/natashamullin) 
+ (https://github.com/natashamullin)
  [link](undefined)
 
 
@@ -41,6 +42,7 @@
  ## Links
  Link to the GitHub repo
 [link](https://github.com/natashamullin/readme-generator)
+(https://github.com/natashamullin/readme-generator)
 Link to the deployed project
 [link](not deployed)
 Link to the video
@@ -49,4 +51,6 @@ https://drive.google.com/file/d/1Yp42d9FWDtOt0SOlcDFJe0Ve23MCzsW7/view
 ## Questions 
 please reach me at my GubHub account or through Email if you have any questions
 Natasha mullin; [link](github.com/natashamullin)
+(github.com/natashamullin)
 [link](Natashamullin@gamil.com)
+(Natashamullin@gamil.com)
